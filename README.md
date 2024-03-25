@@ -1,4 +1,5 @@
-### Hi there Resume Hosted on AWS: https://akshaykatt.com/👋
+### Hi there 👋
+Resume Hosted on AWS: https://akshaykatt.com/
 
 <!--
 **Akshaykatt/Akshaykatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
