@@ -43,4 +43,4 @@ Security Awarness & Training - Knowbe4
 </div>
 
 ## Projects
-- Cloud Resume on AWS
+- Cloud Resume on AWS : https://akshaykatt.com/
