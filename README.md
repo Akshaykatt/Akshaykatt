@@ -38,8 +38,8 @@ Security Awarness & Training - Knowbe4
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/CISSP-Certified-green" />
-<img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-Certified-orange" />
+<img src="https://img.shields.io/badge/-CISSP-0052CC?style=for-the-badge&logoColor=green" />
+<img src="https://img.shields.io/badge/-AWS%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=orange" />
 </div>
 
 ## Projects
