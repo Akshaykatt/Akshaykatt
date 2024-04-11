@@ -18,7 +18,7 @@ Security Awarness & Training - Knowbe4
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco%20Meraki%20Firewall-0098D6?style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco%20Meraki%20Firewall-007C70?style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
 ### Endpoint
