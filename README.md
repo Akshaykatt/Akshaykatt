@@ -39,7 +39,7 @@ Security Awarness & Training - Knowbe4
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CISSP-4CAF50?&style=for-the-badge&logo=ISC2&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=orange" />
+<img src="https://img.shields.io/badge/-AWS%20Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900" />
 </div>
 
 ## Projects
