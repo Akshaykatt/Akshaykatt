@@ -29,7 +29,7 @@ Security Awarness & Training - Knowbe4
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Wazuh-0078D7?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-5582E2?style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
